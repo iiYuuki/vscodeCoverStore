@@ -1,2 +1,2 @@
 # vscodeCoverStore
-Stor images for vscode-background plugin.
+Store images for vscode-background plugin.
